@@ -10,6 +10,7 @@
     "javascript",
     "ecmascript"
   ],
+  "type": "module",
   "author": "Jose Rios <jrbernabe@gmail.com>",
   "license": "MIT"
 }
